@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dmitry Efimov]]></title>
+  <link href="http://tuwilof.github.io/atom.xml" rel="self"/>
+  <link href="http://tuwilof.github.io/"/>
+  <updated>2015-11-26T17:00:16+03:00</updated>
+  <id>http://tuwilof.github.io/</id>
+  <author>
+    <name><![CDATA[Dmitry Efimov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
